@@ -8,7 +8,7 @@
 | `403 Forbidden`   | The client does not have the necessary permissions.   |
 | `404 Not Found`   | The requested resource could not be found on the server.|
 | `500 Internal Server Error` | A generic error message returned when an unexpected condition was encountered by the server. |
-| `502 Bad Gateway` | The server, while acting as a gateway or proxy, received an invalid response from the upstream server it accessed in attempting to fulfill the request. |
+| `502 Bad Gateway` | The server, while acting as a gateway or proxy, received an invalid response from the upstream server it accessed in attempting to fulfill the request. |s
 | `503 Service Unavailable` | The server is not ready to handle the request. Common causes include a server that is down for maintenance or is overloaded. |
 
 http://localhost:5001/api/v1/order/test
